@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Creative515/Camera-One/blob/master/Branding/Creative515-Logo-Round.png" width=400px></p>
+<p align="center"><img src="https://github.com/Creative515/Camera-One/blob/master/Branding/Renders/Body-Plastic-HQ.jpg" width=400px></p>
 
 # Camera One
 Camera One is an experiment that can bring together the open-source hardware and software communities, machining experts, tinkerers, professional photographers and digital Debbie's alike to build a world class scalable product. This camera is designed to fit firmly in the Medium Format class of cameras but not be afraid to venture into the Large or Small format ecosystems by creating ample room for 4x5 film and 35mm mechanisms alike.  The Initial release has been slated to be released as a 35mm film camera but in the future, digital backs are coming! 
